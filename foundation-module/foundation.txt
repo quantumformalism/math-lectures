@@ -1,0 +1,1 @@
+The lecture materials for the foundation module will be organised inside this directory.
