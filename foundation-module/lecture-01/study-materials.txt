@@ -1,0 +1,1 @@
+Material(s) for lecture #1 are contained in this directory.
