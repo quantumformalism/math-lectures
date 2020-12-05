@@ -1,0 +1,3 @@
+  
+The recommended textbook for this section is "Explorations in Quantum Computing" by Dr Colin P. Williams.
+Free download link: https://www.asc.ohio-state.edu/perry.6/p5501_sp17/articles/quantum_gates.pdf
