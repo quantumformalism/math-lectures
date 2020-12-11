@@ -1,0 +1,4 @@
+The recommended textbook for this section is "Linear Algebra Done Right" by Prof. Sheldon Axler
+Free download link: https://github.com/quantumformalism/2020-math-lectures/blob/master/foundation-module/lecture-04/lecture-04-self-study-material..pdf
+
+Physics companion book mentioned in the lecture: https://link.springer.com/book/10.1007/978-3-319-70815-7
