@@ -1,0 +1,2 @@
+Matrix Analysis download: http://www.cse.zju.edu.cn/eclass/attachments/2015-10/01-1446086008-145421.pdf
+Advanced Linear Algebra: Foundations to Frontier https://www.cs.utexas.edu/users/flame/laff/alaff-beta/chapter00-welcome.html
