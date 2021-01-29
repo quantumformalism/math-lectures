@@ -1,0 +1,35 @@
+-------------------------- Matrix Analysis----------------------------------------------------------------------------
+
+1. Matrix Analysis download: http://www.cse.zju.edu.cn/eclass/attachments/2015-10/01-1446086008-145421.pdf
+
+2. Advanced Linear Algebra: Foundations to Frontier https://www.cs.utexas.edu/users/flame/laff/alaff-beta/chapter00-welcome.html
+
+--------------------------------Recommended Physics-------------------------------------------------------------------
+
+1. Quantum Mechanics: The Theoretical Minimum (Theoretical Minimum 2): https://www.amazon.co.uk/dp/B00IFTT8GA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+   
+   -- Youtube: https://www.youtube.com/watch?v=iJfw6lDlTuA&list=PL701CD168D02FF56F
+   
+   
+2. PSI 2019/2020 - Quantum Theory (Branczyk/Dupuis): http://pirsa.org/C19038   
+
+
+
+------------------------------------ Mathematical Physics----------------------------
+
+1. Peter Woit: Quantum Theory, Groups and Representations https://www.math.columbia.edu/~woit/QM/qmbook.pdf
+
+2. Foundations of Quantum Theory (C*-Algebras tailored) by Landsman, Klaas https://www.springer.com/gp/book/9783319517766
+
+
+
+---------------------------------Quantum Information -----------------------------------------
+
+1. The Theory of Quantum Information by John Watrous https://cs.uwaterloo.ca/~watrous/TQI/TQI.pdf
+
+
+2. Quantum Computation and Quantum Information by Nielsen and Chuang http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf
+
+3. An Introduction to Quantum Computing Paperback by Kaye, Laflamme and Mosca https://www.amazon.co.uk/Introduction-Quantum-Computing-Phillip-Kaye/dp/019857049X
+
+
